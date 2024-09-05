@@ -116,7 +116,6 @@ else:
     #tamoom shooddd--> chiakr konim chanbar bshe?
     
 #soal--> hey hey repeat repeat --> tekrar
-
 #for----> avalin fekr for
 for i in range(0,5):
     cnumber=random.randint(0, 6)
