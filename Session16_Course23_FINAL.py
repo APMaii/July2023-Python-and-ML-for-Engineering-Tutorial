@@ -1127,10 +1127,6 @@ kodom ro valid bardarim? crossvalidation fold1 miad yekbar x2 avr mdiar eva ....
 ba in kar dar asl 5*6=30 yani 30 bar model kardimmmmm---> kheyli pichidas
 
 
-
-
-
-
 moafagh bashid
 
 Alipilehvar1999@gmail.com
