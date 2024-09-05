@@ -235,7 +235,6 @@ variable=5
 a='ali'
 b='pm'
 a+b
-
 a-b
 #farghe inke inja bznm ya print
 #joftesh yekie ama print oon outputo ...
