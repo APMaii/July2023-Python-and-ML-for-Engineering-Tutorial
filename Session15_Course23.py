@@ -248,13 +248,6 @@ kafie az code e zir estefade she
 model.score(y_true,y_predicted)
 
 
-
-
-
-
-
-
-
 Moafagh bashid,
 Alipilehvar1999@gmail.com
 Ai.Course22.Alipilehvar@gmail.com
@@ -311,9 +304,6 @@ from sklearn.linear_model import LinearRegression
 #az sklearn esteafde mikonim
 #sklearn yek dataseti dareke miad yek dataye khobo tartamiz
 #bemaaaa tahvil mide (ytani bad az marhaleye sevom)
-
-
-
 
 #........... 5 ta model (LR,KNN,DT,RF,SVM).......
 #in model ha vase chian ? beehsh migan supervised
@@ -470,8 +460,6 @@ print(test_score) #1.0
 
 #scdore agha in chijroi hesab krde
 #faseleye noghate pishbini shdoe ro ba noghate avgeh ei ro chijori hesab krde ?
-
-
 
 #========================
 #accuracy == chan dasrad doroste ? 1 --> 30 taee kd adim bhshsh , 30 taro doros pishbini krd
