@@ -1,6 +1,6 @@
 # 🚀 Python & Machine Learning for Engineering - July 2023
 
-> **Note:** All code and comments are written in Persian.
+> **Note:** All comment desciption within code files written in Persian.
 
 Welcome to the **first edition** of my tutorial series on **Python** and **Machine Learning** for engineering applications! This course, created in **July 2023**, is designed to guide you from the basics of Python to applying **ML techniques** for solving real-world engineering problems.
 
