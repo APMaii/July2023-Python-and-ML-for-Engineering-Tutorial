@@ -1,4 +1,5 @@
 # 🚀 Python & Machine Learning for Engineering - July 2023
+> **Lecturer: Ali Pilehvar Meibody** 
 
 > **Note:** All comment desciption within code files written in Persian.
 
