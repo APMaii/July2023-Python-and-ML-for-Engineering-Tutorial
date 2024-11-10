@@ -66,7 +66,6 @@ fa='C://Users//sunhouse//Desktop//2.csv'
 def magnet_curve(fa):
     mydf=pd.read_csv()
     
-
 #yadet bashe--->
 #aval codesho bnvis
 #bad tabdilesh kon b tabe
@@ -363,13 +362,6 @@ def stress_strain(f_adsres,which):
 
 #============MACHINE LEARNING=============================
 
-
-
-
-
-
-
-
 #25
 #25
 #30
@@ -518,9 +510,6 @@ def stress_strain(f_adsres,which):
 
 #LR hey y=ax+b khat midad
 #baghie ravehs haye dg
-
-
-
 
 
 #----------avalin mesal gol haye iris--------------
